@@ -1,0 +1,18 @@
+body {
+    margin: 0;
+}
+
+.main {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    color: gray;
+    font-family: "Arial", sans-serif
+}
+
+img {
+    width: 200px;
+}
